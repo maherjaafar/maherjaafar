@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about coding and running
 - 📫 How to reach me: maher.jaafar@hotmail.com
 - ⚡ Fun fact: I'm already a student in my last year
-- :briefcase: visit my [portfolio](https://maherjaafar.me)
+- :briefcase: visit my [portfolio](http://maherjaafar.me)
