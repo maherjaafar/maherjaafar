@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <img align='right' src="/assets/coding.gif" width="230">
-<p><em>CS student at <a href="http://www.isimm.rnu.tn/">Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://pineappleworkshop.com">Pineapple Workshop</a>
+<p><em>CS student at <a href="http://www.isimm.rnu.tn/" target="_blank">Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://pineappleworkshop.com" target="_blank">Pineapple Workshop</a>
 </em></p>
 
 [![instagram maher.codes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png)](https://www.instagram.com/maher.codes/)
