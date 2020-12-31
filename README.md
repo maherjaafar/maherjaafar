@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: maher.jaafar@hotmail.com
 - ⚡ Fun fact: I'm already a student in my last year
 - :briefcase: visit my [portfolio](http://maherjaafar.me)
+
+![Gif animation](/assets/animation_500_kjd2r9xh.gif)
