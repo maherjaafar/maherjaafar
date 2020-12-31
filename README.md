@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding an internship starts on March 2021
 - 💬 Ask me about coding and running
 - 📫 How to reach me: maher.jaafar@hotmail.com
-- ⚡ Fun fact: I'm already a student
+- ⚡ Fun fact: I'm already a student in my last year
+- :briefcase: visit my [portfolio](https://maherjaafar.me)
