@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm already a student in my last year
 - :briefcase: visit my [portfolio](http://maherjaafar.me)
 
-<img src="/assets/animation_500_kjd2r9xh.gif" style="width: 100%;"/>
+<div  style="overflow: hidden;    background-size: cover; background-position: center; background-image:url('/assets/animation_500_kjd2r9xh.gif');">
+</div>
