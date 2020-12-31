@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p><em>CS student at <a href="http://www.isimm.rnu.tn/" target="_blank">Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://pineappleworkshop.com" target="_blank">Pineapple Workshop</a>
 </em></p>
 
-[![instagram maher.codes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png)](https://www.instagram.com/maher.codes/)
+[![instagram maher.codes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/50px-Instagram_logo_2016.svg.png)](https://www.instagram.com/maher.codes/)
 </br>
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/maherjaafar?style=social)](https://twitter.com/maherjaafar)
 [![Linkedin: engineermaher](https://img.shields.io/badge/-engineermaher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engineermaher/)](https://www.linkedin.com/in/engineermaher/)
