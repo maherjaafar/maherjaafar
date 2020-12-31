@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - :briefcase: visit my ***[portfolio](http://maherjaafar.me)***
 
 
-<p><em>**CS student** (to June 2021) at <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>**Flutter developer** at <a href="https://pineappleworkshop.com">Pineapple Workshop</a>
+<p><em>CS student (to June 2021) at <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://pineappleworkshop.com">Pineapple Workshop</a>
 </em></p>
 
 [![instagram maher.codes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/50px-Instagram_logo_2016.svg.png)](https://www.instagram.com/maher.codes/)
