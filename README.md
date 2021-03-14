@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img src='/assets/animation_500_kjd2r9xh.gif'/>
+<img src='/assets/animation_200_kjd2r9xh.gif'/>
