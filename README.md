@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ***coding*** and ***running***
 - 📫 How to reach me: maher.jaafar@hotmail.com
 - ⚡ Fun fact: I'm already a ***final year*** **CS student**
-- :briefcase: visit my ***[portfolio](http://maherjaafar.me)***
+- :briefcase: visit my ***[portfolio](http://maherjaafar.github.io)***
 
 
 <p><em>CS student (to June 2021) at <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://pineappleworkshop.com">Pineapple Workshop</a>
