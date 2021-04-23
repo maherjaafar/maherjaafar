@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 [![GitHub maherjaafar](https://img.shields.io/github/followers/maherjaafar?label=follow&style=social)](https://github.com/maherjaafar)
 
 ---
-
-<img src='/assets/animation_500_kjd2r9xh.gif'/>
