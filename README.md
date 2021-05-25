@@ -10,14 +10,10 @@ Here are some ideas to get you started:
 <img align='right' src="/assets/coding.gif" width="230">
 
 - 🔭 I’m currently working on **Flutter projects**
-- 🌱 I’m currently learning swift
-- 👯 I’m looking to collaborate on new projects
+- 👋 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with finding an end of studies internship starts on **March 2021**
 - 💬 Ask me about ***coding*** and ***running***
 - 📫 How to reach me: maher.jaafar@hotmail.com
-- ⚡ Fun fact: I'm already a ***final year*** **CS student**
-- :briefcase: visit my ***[portfolio](http://maherjaafar.github.io)***
-
 
 <p><em>CS student (to June 2021) at <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://pineappleworkshop.com">Pineapple Workshop</a>
 </em></p>
