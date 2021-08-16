@@ -11,11 +11,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Flutter projects**
 - 👋 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with finding an end of studies internship starts on **March 2021**
-- 💬 Ask me about ***coding*** and ***running***
-- 📫 How to reach me: maher.jaafar@hotmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/engineermaher/
 
-<p><em>CS student (to June 2021) at <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://pineappleworkshop.com">Pineapple Workshop</a>
+<p><em>Bachelor's degree of computer Science at the <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://pineappleworkshop.com">Pineapple Workshop</a>
 </em></p>
 
 [![instagram maher.codes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/50px-Instagram_logo_2016.svg.png)](https://www.instagram.com/maher.codes/)
