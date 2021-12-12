@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m working full-time on **Flutter projects**
 - 👋 I like to contribute on open source projects
-- 📫 How to reach me: https://www.linkedin.com/in/engineermaher/
+- 📫 Reach me out on LinkedIn or twitter ⬇️
 
 <p><em>Bachelor's degree of computer Science at the <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://hackberry.se">Hackberry</a>
 </em></p>
