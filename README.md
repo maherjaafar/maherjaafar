@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -->
 <img align='right' src="/assets/coding.gif" width="230">
 
-- 🔭 I’m currently working on **Flutter projects**
-- 👋 I’m looking to collaborate on new projects
+- 🔭 I’m working full-time on **Flutter projects**
+- 👋 I like to contribute on open source projects
 - 📫 How to reach me: https://www.linkedin.com/in/engineermaher/
 
 <p><em>Bachelor's degree of computer Science at the <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://hackberry.se">Hackberry</a>
