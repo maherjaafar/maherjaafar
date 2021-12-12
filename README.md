@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![instagram maher.codes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/50px-Instagram_logo_2016.svg.png)](https://www.instagram.com/maher.codes/)
 </br>
 [![Twitter: flutterengineer](https://img.shields.io/twitter/follow/flutterengineer?style=social)](https://twitter.com/flutterengineer)
-[![Linkedin: engineermaher](https://img.shields.io/badge/-MaherJaafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flutterengineer/)](https://www.linkedin.com/in/flutterengineer/)
+[![Linkedin: Maher Jaafar](https://img.shields.io/badge/-Maher Jaafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flutterengineer/)](https://www.linkedin.com/in/flutterengineer/)
 [![GitHub maherjaafar](https://img.shields.io/github/followers/maherjaafar?label=follow&style=social)](https://github.com/maherjaafar)
 
 ---
