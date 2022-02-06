@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 👋 I like to contribute on open source projects
 - 📫 Reach me out on LinkedIn or twitter ⬇️
 
-<p><em>Bachelor's degree of computer Science at the <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://hackberry.se">Hackberry</a>
-</em></p>
-
 [![instagram maher.codes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/50px-Instagram_logo_2016.svg.png)](https://www.instagram.com/maher.codes/)
 </br>
 [![Twitter: flutterengineer](https://img.shields.io/twitter/follow/flutterengineer?style=social)](https://twitter.com/flutterengineer)
