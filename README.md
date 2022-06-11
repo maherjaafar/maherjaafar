@@ -7,7 +7,6 @@
 **maherjaafar/maherjaafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<img align='right' src="/assets/coding.gif" width="230">
 
 - 🔭 I’m working full-time on **Flutter projects**
 - 👋 I like to contribute on open source projects
