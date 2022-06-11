@@ -11,8 +11,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m working full-time on **Flutter projects**
 - 👋 I like to contribute on open source projects
-- 📫 Reach me out on LinkedIn or twitter ⬇️
 
-</br>
-[![Twitter: flutterengineer](https://img.shields.io/twitter/follow/flutterengineer?style=social)](https://twitter.com/flutterengineer)
 ---
