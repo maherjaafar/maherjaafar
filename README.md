@@ -1,12 +1,9 @@
-### Hi there 👋
-<h2> I'm <a href="" >Maher Jaafar</a>!</h2>
+Hello there :wave: 
 
-<!--
-**maherjaafar/maherjaafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+I'm Maher, a Flutter developer.
 
-- 🔭 I’m working full-time on **Flutter projects**
-- 👋 I like to contribute on open source projects
+[![Maher's Github Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=maherjaafar&count_private=true&theme=dark&show_icons=true&include_orgs=true )]()
 
----
+I work mostly on Flutter and dart projects as a Consultant.
+
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=maherjaafar&hide=php,css,typescript,javascript,html,makefile,c&layout=compat&theme=dark&include_orgs=true&langs_count=6)
