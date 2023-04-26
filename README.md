@@ -6,4 +6,4 @@ I'm Maher, a Flutter developer.
 
 I work mostly on Flutter and dart projects as a Consultant.
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=maherjaafar&hide=php,css,typescript,javascript,html,makefile,c&layout=compat&theme=dark&include_orgs=true&langs_count=6)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=maherjaafar&layout=compat&theme=dark&include_orgs=true&langs_count=6)
